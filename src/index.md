@@ -1,3 +1,6 @@
-# Hello, world
+---
+title: 'Hello, world'
+layout: 'layouts/home.html'
+---
 
-This is new content
+This is pretty _rad_, right?
