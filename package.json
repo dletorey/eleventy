@@ -1,0 +1,23 @@
+{
+  "name": "eleventy",
+  "version": "1.0.0",
+  "description": "Place for practising the Eleventy from Scratch by Andy Bell https://piccalil.li/course/learn-eleventy-from-scratch",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dletorey/eleventy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dletorey/eleventy/issues"
+  },
+  "homepage": "https://github.com/dletorey/eleventy#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
