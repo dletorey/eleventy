@@ -4,7 +4,7 @@
   "description": "Place for practising the Eleventy from Scratch by Andy Bell https://piccalil.li/course/learn-eleventy-from-scratch",
   "main": ".eleventy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx eleventy --serve"
   },
   "repository": {
     "type": "git",
