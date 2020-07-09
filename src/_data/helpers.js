@@ -16,8 +16,7 @@ module.exports = {
         response += ' data-state="active"';
       }
       return response;
-   }
-},
+   },
   /**
    * Filters out the passed item from the passed collection
    * and randomises and limits them based on flags
@@ -55,3 +54,4 @@ module.exports = {
   
     return filteredItems;
   }
+}
